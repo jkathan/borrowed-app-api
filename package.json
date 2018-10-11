@@ -1,0 +1,28 @@
+{
+  "name": "borrewd-app-api",
+  "version": "1.0.0",
+  "description": "Track your borrows and loans",
+  "main": "models.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkathan/borrowed-app-api.git"
+  },
+  "author": "jkathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkathan/borrowed-app-api/issues"
+  },
+  "homepage": "https://github.com/jkathan/borrowed-app-api#readme"
+}
