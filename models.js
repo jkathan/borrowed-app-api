@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
@@ -54,4 +54,4 @@ const borrowedSchema = mongoose.Schema({
         phone: this.phone,
         returnDate: this.returnDate,
         dateAdded: this.dateAdded
-	}
+	}*/
